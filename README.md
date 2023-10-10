@@ -1,2 +1,2 @@
 # YTTR
-Video Title remove whenever youtube video is played on fullscreen mode
+Video Title remove whenever fullscreen mode youtube video is played
